@@ -17,6 +17,6 @@
  
 **2.Run datapreparation.ipynb file which will create two json files in dataStore folder.**
  
-**3.Run searching.ipynb file to search for movie titles across the newly created data store.**
+**3.Run searching.ipynb file to search for Pid across the newly created data store.**
 
 **4.That's it.**
