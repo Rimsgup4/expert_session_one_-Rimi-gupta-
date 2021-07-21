@@ -11,12 +11,12 @@
  
  <h2 align="left">To run the code:</h2>
  
- **1.Cloce the github repository in your computer.https://github.com/Rimsgup4/expert_session_one_-Rimi-gupta-**
+ **1.Cloce the github repository in your computer.https://github.com/Rimsgup4/expert_session_one_-Rimi-gupta-#data-analysis-on-incoming-streams**
  
  
  
-**2.Run dataPreperation.ipynb file which will create two json files in dataStore folder.**
+**2.Run datapreparation.ipynb file which will create two json files in dataStore folder.**
  
-**3.Run DataBaseSearch.ipynb file to search for movie titles across the newly created data store.**
+**3.Run searching.ipynb file to search for movie titles across the newly created data store.**
 
 **4.That's it.**
