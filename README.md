@@ -11,6 +11,7 @@
  
  <h2 align="left">To run the code:</h2>
  
+ **1.Cloce the github repository in your computer.**
  
  
  
